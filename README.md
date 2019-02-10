@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Merelena/Merelena.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+I'm a stugent of Minsk Radioengineering College and my specialization is "Information Technology Software". I'm a patient and hardworking person, who enjoys solving tasks, even hard tasks, and  
 
 ### Markdown
 
