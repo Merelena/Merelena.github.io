@@ -1,9 +1,9 @@
-## About me
-I'm a stugent of Minsk Radioengineering College and my specialization is "Information Technology Software". I'm a patient and hardworking person, who enjoys solving tasks, even hard tasks, and  
+# About me 
+I'm a stugent of Minsk Radioengineering College and my specialty is "Information Technology Softiware". I'm a patient and hardworking person, who enjoys solving tasks, even hard tasks, and likes searching for different solutions. I never miss an oppotunity to learn something new, to get experience and to improve my skills. Now I'm learning Delphi (according to the curriculum) and C# languages.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
 
 ```markdown
 Syntax highlighted code block
