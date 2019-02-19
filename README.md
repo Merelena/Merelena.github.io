@@ -11,3 +11,6 @@ I'm a stugent of Minsk Radioengineering College and my specialty is "Information
 ## Tasks
 https://github.com/Merelena/PadawansTask1.git
 https://github.com/Merelena/PadawansTask2.git
+https://github.com/Merelena/PadawansTask3.git
+https://github.com/Merelena/PadawansTask4.git
+https://github.com/Merelena/PadawansTask5.git
